@@ -40,10 +40,10 @@ ems:
 in pixels?
 
       html {
-        font-size: 1.125em;
+        font-size: 1.125em; /* 18 px */
       }
       figure {
-        font-size: 0.888em;
+        font-size: 0.888em; /* 14.208 px */
       }
       figure h2 {
         font-size: 1.4375em;
