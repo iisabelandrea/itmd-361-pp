@@ -3,11 +3,13 @@
   outputs the correct value for x (5).
 */
 
+function pp7(){
 var x = 5;
 
 function double(num) {
   let x = num * 2;
   return x;
+}
 }
 
 double(6);
