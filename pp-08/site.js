@@ -1,3 +1,6 @@
+$.noConflict();
+
+(function($){
 $(document).ready(
   function() {
     $('html').removeClass('nojs');
@@ -11,4 +14,4 @@ $(document).ready(
 
   }
 );
-
+})(jQuery);
